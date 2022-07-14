@@ -23,12 +23,12 @@ Deployment instructions
 ...
 
 <h1>STEPS</h1>
-1. Create a Heroku Account: <br>
+1. <b>Create a Heroku Account:</b> <br>
 Open the following link https://dashboard.heroku.com<br>
 Sing in with your college email address <br>
 Next select the language as Ruby.<br>
 You will recive a verfication email...
 
-2. Making a new app
+2. <b>Making a new app</b>
 
 
